@@ -1,7 +1,9 @@
 <h1 align="center"> 👗👕 WOWDrobe ♻️ </h1> <br>
+<div align="center">
+  
+![image](https://github.com/WowDrobe/.github/assets/59131714/dffeb4c3-e3f9-4509-ab4a-e3f0475733d6)
 
-![image](https://github.com/WowDrobe/.github/assets/59131714/9c410d06-94d1-4bd8-a472-d832e8ed44c1)
-
+</div>
 
 # WOWDrobe - Revive-Revibe-Restyle
 
