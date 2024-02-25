@@ -50,13 +50,6 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________
 
-## Visulize it in most beautiful way
-
-| Preview  | 
-|----------|
-| ![image](https://github.com/WowDrobe/.github/assets/59131714/9bf2cd2e-8eb5-413b-8141-526c72b4095c) |
-
-
 ## WOWDrobe
 ![image](https://github.com/WowDrobe/.github/assets/59131714/259d5800-cdf0-4690-8176-776edaaa6a0f)
 ![image](https://github.com/WowDrobe/.github/assets/59131714/c1509d65-58f8-485e-9dbd-d616ab55d048)
