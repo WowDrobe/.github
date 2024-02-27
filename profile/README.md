@@ -1,5 +1,6 @@
 
 <h1 align="center"> 👗👕 WOWDrobe ♻️ </h1> <br>
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qOARrY3m29o">
     <img src="https://github.com/thekaailashsharma/AI-Travel-Manager/assets/61358755/ece4773d-bc96-462d-bcee-331c14dbeef0" alt="HiewAF9.md.png" border="0">
@@ -61,12 +62,9 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________
 
+## Our Repositories 
 
+- [WowDrobe-App](https://github.com/WowDrobe/WowDrobe-App)
+- [WowDrobe-AI](https://github.com/WowDrobe/Wowdrobe-AI)
 
-
-
-
-
-
-
-
+Join us for our exciting [Live Demonstration](https://www.youtube.com/watch?v=qOARrY3m29o). We invite you to watch and engage with our team as we showcase our latest project. Your feedback is invaluable to us, so feel free to share your thoughts, suggestions, or any comments you may have. We look forward to hearing from you!
