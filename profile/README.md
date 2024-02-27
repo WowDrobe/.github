@@ -1,18 +1,20 @@
 
 <h1 align="center"> 👗👕 WOWDrobe ♻️ </h1> <br>
 
-
-![Image](https://github.com/WowDrobe/.github/assets/75785177/7ce9bcc6-ee36-4d3f-8b5c-0954a48f8b0e)
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qOARrY3m29o">
+    <img src="https://github.com/thekaailashsharma/AI-Travel-Manager/assets/61358755/ece4773d-bc96-462d-bcee-331c14dbeef0" alt="HiewAF9.md.png" border="0">
+  </a
+</p>
 
 
 </div>
 
 # WOWDrobe - Revive-Revibe-Restyle
 
-![Static Badge](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=gemini&logoColor=%236769FF&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=%23FFFFFF&labelColor=black)
-![Static Badge](https://img.shields.io/badge/GenAI-black?style=for-the-badge&logo=ai&logoColor=%23696969&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-black?style=for-the-badge&logo=Jetpack%20Compose&logoColor=%234285F4&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=%23FFCA28&labelColor=black)
 
 **Available only for Android.**
 
@@ -50,6 +52,13 @@ ________________________________________________________________________________
 🦾 **Fashion Inspiration** 🪄 : Share & discover unique styles from the communities.
 
 🎒 **Sustainability Education** 📔 : Learn about the impact of fashion & how to make a difference.
+
+_____________________________________________________________________________________________________________________________________________
+
+## WOWDrobe
+![image](https://github.com/WowDrobe/.github/assets/59131714/259d5800-cdf0-4690-8176-776edaaa6a0f)
+![image](https://github.com/WowDrobe/.github/assets/59131714/c1509d65-58f8-485e-9dbd-d616ab55d048)
+
 
 _____________________________________________________________________________________________________________________________________________
 
