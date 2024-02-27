@@ -68,3 +68,44 @@ ________________________________________________________________________________
 - [WowDrobe-AI](https://github.com/WowDrobe/Wowdrobe-AI)
 
 Join us for our exciting [Live Demonstration](https://www.youtube.com/watch?v=qOARrY3m29o). We invite you to watch and engage with our team as we showcase our latest project. Your feedback is invaluable to us, so feel free to share your thoughts, suggestions, or any comments you may have. We look forward to hearing from you!
+
+_____________________________________________________________________________________________________________________________________________
+
+
+### Tech Stack
+| Name | Description |
+| --- | --- |
+| [`@palm-llm`](https://makersuite.google.com) | Gemini AI |
+| [`@google-maps-platform`](https://mapsplatform.google.com/) | Google Maps Platform |
+| [`@firebase`](https://firebase.google.com/) | Firebase |
+| [`@mapbox`](https://docs.mapbox.com/) | Mapbox |
+| [`Flask-backend`](https://flask.palletsprojects.com/en/3.0.x/) | Flask |
+| [`@compose`](https://developer.android.com/jetpack/compose) | Jetpack Compose - Android |
+| [`@materialUI`](https://m3.material.io/) | Material 3 |
+| [`@ktor-client`](https://ktor.io/docs/create-client.html) | Ktor CLient |
+| [`@navigation-compose`](https://developer.android.com/jetpack/compose/navigation) | Navigation Compose |
+| [`@coil`](https://coil-kt.github.io/coil/compose/) | Coil-Compose |
+| [`@ksp-room`](https://developer.android.com/build/migrate-to-ksp) | Room Android |
+| [`@dagger-hilt`](https://developer.android.com/training/dependency-injection/hilt-android) | Dagger-hilt |
+| [`@location-provider-client`](https://developer.android.com/develop/sensors-and-location/location/retrieve-current) | Fused Location Provider Client |
+
+## Steps To Run on your Device
+- The Following project was build using `AGP 8.1.1`
+-  Check your Android Studio's AGP.
+-  If it is `lower` than given AGP follow given steps :-
+-  -  #### Go to gradle/libs.version.toml
+   -  #### In [versions] change value of AGP as per requirement
+
+## Steps To Install on your Device
+- Visit the following link 
+- [Install Now](https://drive.google.com/drive/folders/16Yc_FqdgY05mhGdN9qgJWAqGVmaLpMP3?usp=drive_link)
+- Minimum SDK `27` --> `Android version 8.1`
+
+_____________________________________________________________________________________________________________________________________________
+
+## Authors
+
+[@khyatigupta](https://github.com/khyatigupta369)
+[@prathikshetty](https://github.com/prathikshetty2002)
+[@kamalika](https://github.com/kamalika0363)
+[@kailashsharma](https://github.com/thekaailashsharma)
